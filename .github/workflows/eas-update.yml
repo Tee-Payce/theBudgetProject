@@ -30,4 +30,4 @@ jobs:
         run: npm ci
 
       - name: Publish Update
-        run: eas update --branch production --message "${{ github.event.head_commit.message }}"
+        run: eas update --branch production --platform android --message "${{ github.event.head_commit.message }}"
