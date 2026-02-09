@@ -1,9 +1,9 @@
 import { useBudget } from '@/contexts/BudgetContext';
 import { useTheme } from '@/contexts/ThemeContext';
 import { getYearlyData } from '@/database/database';
-import { useState, useEffect } from 'react';
-import { ImageBackground, ScrollView, Text, TouchableOpacity, View, Dimensions } from 'react-native';
-import { LineChart, BarChart, PieChart } from 'react-native-chart-kit';
+import { useState } from 'react';
+import { Dimensions, ImageBackground, ScrollView, Text, TouchableOpacity, View } from 'react-native';
+import { BarChart, LineChart } from 'react-native-chart-kit';
 
 const screenWidth = Dimensions.get('window').width;
 
@@ -245,7 +245,7 @@ export default function Reports() {
               {(data.totalIncome > 0 || data.totalExpenses > 0) && (
                 <BarChart
                   data={{
-                    labels: ['Income', 'Expenses'],
+                    labels: ['Incomessssss', 'Expenses'],
                     datasets: [{
                       data: [data.totalIncome, data.totalExpenses]
                     }]
