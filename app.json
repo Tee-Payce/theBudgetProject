@@ -44,6 +44,12 @@
         "projectId": "2a7d931d-7e32-427f-9b38-8b3b93e3fb7a"
       }
     },
-    "owner": "teepayce"
+    "owner": "teepayce",
+    "updates": {
+      "url": "https://u.expo.dev/2a7d931d-7e32-427f-9b38-8b3b93e3fb7a"
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    }
   }
 }

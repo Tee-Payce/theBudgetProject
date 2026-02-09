@@ -4,6 +4,13 @@
     "appVersionSource": "remote"
   },
   "build": {
+    "production-ota": {
+      "autoIncrement": true,
+      "android": {
+        "buildType": "apk"
+      },
+      "channel": "production"
+    },
     "development": {
       "developmentClient": true,
       "distribution": "internal"
