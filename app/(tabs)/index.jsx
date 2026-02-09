@@ -22,8 +22,8 @@ export default function Dashboard() {
       shadowRadius: 10,
       elevation: 10,
     }}>
-      <Text style={{ color: '#000000', fontSize: 14, fontWeight: 'bold', textTransform: 'uppercase', letterSpacing: 1 }}>{title}</Text>
-      <Text style={{ color: '#000000', fontSize: 28, fontWeight: '900', fontFamily: 'monospace' }}>{getCurrencySymbol()}{value.toFixed(2)}</Text>
+      <Text style={{ color: '#f9f9f9', fontSize: 14, fontWeight: 'bold', textTransform: 'uppercase', letterSpacing: 1 }}>{title}</Text>
+      <Text style={{ color: '#c0bcbc', fontSize: 28, fontWeight: '900', fontFamily: 'monospace' }}>{getCurrencySymbol()}{value.toFixed(2)}</Text>
     </View>
   );
 
