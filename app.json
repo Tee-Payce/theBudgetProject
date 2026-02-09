@@ -15,7 +15,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/icon.png",
         "backgroundColor": "#000008"
-      }
+      },
+      "package": "com.teepayce.nexusfinance"
     },
     "web": {
       "output": "static",
@@ -36,6 +37,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "2a7d931d-7e32-427f-9b38-8b3b93e3fb7a"
+      }
+    },
+    "owner": "teepayce"
   }
 }
