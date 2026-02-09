@@ -1,50 +1,62 @@
-# Welcome to your Expo app 👋
+# ⚡ Nexus Finance ⚡
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A futuristic cyberpunk-themed finance tracking app with neon aesthetics and tech-inspired UI, built with React Native and Expo.
 
-## Get started
+## 🚀 Features
 
-1. Install dependencies
+- **🌌 Cyberpunk UI**: Futuristic design with neon colors and glowing effects
+- **⚡ Dark/Light Modes**: Toggle between cyberpunk themes
+- **📱 Tech Navigation**: NEXUS, DATA, and ANALYTICS tabs
+- **💎 Neon Analytics**: Monthly reports with glowing data visualization
+- **🔮 Holographic Cards**: Floating transaction cards with shadow effects
+- **🎮 Gaming Aesthetics**: Monospace fonts and uppercase tech terminology
+- **📡 Expo Ready**: Instant deployment to mobile devices
 
+## 🎨 Theme Features
+
+- **Neon Colors**: Cyan, magenta, and electric green accents
+- **Glowing Effects**: Shadow and text glow throughout the interface
+- **Tech Typography**: Monospace fonts with uppercase styling
+- **Cyberpunk Terminology**: "DATA STREAMS", "NEXUS", "ANALYTICS"
+- **Holographic Cards**: Semi-transparent surfaces with neon borders
+- **Electric Animations**: Glowing buttons and interactive elements
+
+## 🛠️ Getting Started
+
+1. Install dependencies:
    ```bash
    npm install
    ```
 
-2. Start the app
-
+2. Launch the nexus:
    ```bash
-   npx expo start
+   npm start
    ```
 
-In the output, you'll find options to open the app in a
+3. Connect via Expo Go quantum link
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## ⚡ Usage
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- **NEXUS**: Central command dashboard with balance and quick access
+- **Theme Toggle**: Quantum switch between light/dark cyberpunk modes
+- **LOG TRANSACTIONS**: Add income/expense data to the system
+- **DATA**: View all transaction streams with deletion protocols
+- **ANALYTICS**: Monthly data visualization with income/expense breakdown
 
-## Get a fresh project
+## 🔧 Categories
 
-When you're ready, run:
+**INCOME STREAMS:**
+- SALARY, FREELANCE, INVESTMENT, GIFT, OTHER
 
-```bash
-npm run reset-project
-```
+**EXPENSE PROTOCOLS:**
+- FOOD, TRANSPORTATION, ENTERTAINMENT, BILLS, SHOPPING, HEALTHCARE, SAVINGS, INVESTMENT, LOANS, BLACK TAX, TITHE, PERSONAL CARE, OTHER
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 🚀 Tech Stack
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- React Native (Quantum Framework)
+- Expo (Deployment Protocol)
+- TypeScript (Type Safety Matrix)
+- Expo Router (Navigation Nexus)
+- Context API (State Management Core)
+- Cyberpunk Theme System (Visual Interface)
+- Neon Effect Engine (Glow Rendering)
